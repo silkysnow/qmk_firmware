@@ -84,7 +84,7 @@
 
 /* HC595 Driver configuretion */
 #define HC595_OFFSET_INDEX 1
-#define HC595_END_INDEX 14
+#define HC595_END_INDEX 15
 
 /* Factory test keys */
 #define FN_KEY1 MO(4)
